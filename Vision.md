@@ -1,6 +1,6 @@
 
 -----------------------------------
-#Crowd Sourcing Disaster Response : Kudae
+Crowd Sourcing Disaster Response : Kudae
 -----------------------------------
 
 This project was inspired by the [Kerala floods of 2018](https://en.wikipedia.org/wiki/2018_Kerala_floods "Wikipedia: Kerala Floods 2018"). 
