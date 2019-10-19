@@ -1,0 +1,28 @@
+
+-----------------------------------
+Crowd Sourcing Disaster Response : Kudae
+-----------------------------------
+
+1 May 2019
+
+This project was inspired by the Kerala floods of 2018. 
+
+Much of the requirements I have gathered here comes as an effort to address the issues faced during the relief operations of Kerala floods. 
+
+The project I believe can helpful in any disaster and is being designed keeping in mind the following
+
+1) There would be various stakeholders in the relief effort, therefore the views required should be based on the user. A user management module would allow the different stakeholders such as govt agencies, reflief operators, disaster victims to directly engage with the application and get only the required details.
+
+2) During many of the disasters different parts of the infrastructure would be effected. There may not be electricity to run the devices required to access the application, internet might be down or restricted due to govt interfernce. The project should be able to work in all such scenarios much like a Pheonix. The need would be anticipate and create backup plans. An interesting project to incorporate this would be the zeronet project.
+
+3) Fake news could create panic. Efforts should be made in design to prevent users from posting fake unauthenticated news in the first place. Additionally, reporting and moderating of fake news through crowd sourcing.
+
+4) Trustable and unbiased news is important during such disasters. Only the trusted users such as govt. agencies (in cases appropriate), news channels whose identities are verified should be able to post in such a feed.
+
+5) This application is not meant to be an all-in-all, it is only supposed to enable communication between the different users. Proper ground infrastructure and other modes of communication such as ham-radios would be required for effective disaster management.
+
+6) The application should load with minimal data usage and low-speeds on as many different device as possible with an internet connection. This would help reduce load on server during calamity and also help more access to any user on any device.
+
+7) The application should be designed such that privacy can be secured, provision to allow restricting information if it could lead to targeting of the relief centres or operators.
+
+8) Communcation between different relief camps, rescue operators and victims
