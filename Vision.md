@@ -1,11 +1,9 @@
 
 -----------------------------------
-Crowd Sourcing Disaster Response : Kudae
+#Crowd Sourcing Disaster Response : Kudae
 -----------------------------------
 
-1 May 2019
-
-This project was inspired by the Kerala floods of 2018. 
+This project was inspired by the [Kerala floods of 2018](https://en.wikipedia.org/wiki/2018_Kerala_floods "Wikipedia: Kerala Floods 2018"). 
 
 Much of the requirements I have gathered here comes as an effort to address the issues faced during the relief operations of Kerala floods. 
 
